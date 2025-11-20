@@ -1,0 +1,23 @@
+Juventus ( BODOVI : 33, GR: 19)
+Roma ( BODOVI : 26, GR: 16)
+Milan ( BODOVI : 26, GR: 4)
+------------------------
+Lazio ( BODOVI : 25, GR: 12)
+Atalanta ( BODOVI : 25, GR: 7)
+------------------------
+Napoli ( BODOVI : 24, GR: 9)
+Torino ( BODOVI : 22, GR: 13)
+Fiorentina ( BODOVI : 20, GR: 7)
+Inter ( BODOVI : 18, GR: 2)
+Sampdoria ( BODOVI : 18, GR: -3)
+Chievoverona ( BODOVI : 18, GR: -1)
+Genoa ( BODOVI : 16, GR: 0)
+Cagliari ( BODOVI : 16, GR: -10)
+Bologna ( BODOVI : 16, GR: -5)
+Udinese ( BODOVI : 15, GR: -4)
+Sassuolo ( BODOVI : 13, GR: -9)
+Empoli ( BODOVI : 10, GR: -11)
+------------------------
+Pescara ( BODOVI : 7, GR: -14)
+Palermo ( BODOVI : 6, GR: -16)
+Crotone ( BODOVI : 5, GR: -16)

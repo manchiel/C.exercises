@@ -1,0 +1,3 @@
+Krug poluprecnika 2.000000 sa centrom u (3.40,2.00)
+(2.00,2.00)
+(3.00,1.00)
